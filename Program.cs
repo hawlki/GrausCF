@@ -9,11 +9,9 @@ namespace GrausCF
             Console.Clear();
             Console.Beep();
 
-            Console.WriteLine("-----------------------------");
-            Console.WriteLine("Etec Adolpho Berezin");
-            Console.WriteLine("Feito por Israel Camilo Lopes");
-            Console.WriteLine("1I3");
-            Console.WriteLine("-----------------------------");
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("          Graus CF          ");
+            Console.WriteLine("----------------------------");
 
             Console.ForegroundColor = ConsoleColor.Red;
             Console.Write("Escreva uma medida em graus Celsius(°C): ");
